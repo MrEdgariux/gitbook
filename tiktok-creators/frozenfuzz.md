@@ -6,12 +6,11 @@ From this TikTok Content Creator, we decided to make changes and upgraded our re
 
 ## Review Part 1
 
-<figure><img src="../.gitbook/assets/TikTok Review Card - FrozenFuzz.png" alt="" width="295"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TikTok Review Card - FrozenFuzz - 2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-| RULE | POINTS TOOK | POINTS GAVE |
-| ---- | ----------- | ----------- |
-|      |             |             |
-|      |             |             |
-|      |             |             |
+| RULE             | POINTS TOOK | POINTS GAVE |
+| ---------------- | ----------- | ----------- |
+| Sound warning    | 1           | 0           |
+| Content was good | 0           | 3           |
