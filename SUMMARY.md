@@ -5,6 +5,9 @@
 
 ## TikTok Creators
 
+* [nuukpolarwolf](tiktok-creators/nuukpolarwolf.md)
+* [vurrel](tiktok-creators/vurrel.md)
+* [hellokitaro](tiktok-creators/hellokitaro.md)
 * [dazaiyeen](tiktok-creators/dazaiyeen.md)
 * [FrozenFuzz](tiktok-creators/frozenfuzz.md)
 * [exgamingstream](tiktok-creators/exgamingstream.md)

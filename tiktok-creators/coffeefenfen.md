@@ -10,6 +10,16 @@ So ye, this one had also gay encourging content, but not a lot.
 
 ***
 
-{% hint style="info" %}
-Review Part 2 is coming very soon!
-{% endhint %}
+## Review Part 2
+
+<figure><img src="../.gitbook/assets/TikTok Review Card - Coffeefenfen - 2.png" alt="" width="296"><figcaption></figcaption></figure>
+
+***
+
+| RULE                                       | POINTS TOOK | POINTS GAVE |
+| ------------------------------------------ | ----------- | ----------- |
+| I liked music (x1)                         |             | 1           |
+| Timelapsed content (x1)                    | 1           |             |
+| [Rickrooled ](#user-content-fn-1)[^1]\(x1) | 1           |             |
+
+[^1]: It was just for fun, there are no rule like this
