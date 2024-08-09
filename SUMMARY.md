@@ -5,6 +5,7 @@
 
 ## TikTok Creators
 
+* [dazaiyeen](tiktok-creators/dazaiyeen.md)
 * [FrozenFuzz](tiktok-creators/frozenfuzz.md)
 * [exgamingstream](tiktok-creators/exgamingstream.md)
 * [burniedragon](tiktok-creators/burniedragon.md)
