@@ -5,6 +5,7 @@
 
 ## TikTok Creators
 
+* [rico\_furry](tiktok-creators/rico\_furry.md)
 * [nuukpolarwolf](tiktok-creators/nuukpolarwolf.md)
 * [vurrel](tiktok-creators/vurrel.md)
 * [hellokitaro](tiktok-creators/hellokitaro.md)
