@@ -24,10 +24,10 @@ So ye, this was amazing ;) I like him (if I believe, he was the first I've watch
 
 ## Review Part 5
 
-There was no card for this part as well, as it haven't change at all, so what you see on part 4, that's what it left with after this part :)
+<figure><img src="../.gitbook/assets/TikTok Review Card 2 - foxtomas.png" alt="" width="295"><figcaption><p>This is the final version of him by the way xD</p></figcaption></figure>
 
 ***
 
 {% hint style="warning" %}
-Due to the many parts of this tiktok creator, I had to make decisions on waiting for a line as there more to review, not only him, so I believe we will create Review Part 6 at 2025th.
+Because he has a lot of parts of reviews, I had to make decisions on waiting for a line as there more to review, not only him, so I believe we will create Review Part 6 at 2025th.
 {% endhint %}

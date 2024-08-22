@@ -5,6 +5,18 @@
 
 ## TikTok Creators
 
+* [ikario\_rainbow](tiktok-creators/ikario\_rainbow.md)
+* [zorox\_x3](tiktok-creators/zorox\_x3.md)
+* [jackthefoxy](tiktok-creators/jackthefoxy.md)
+* [lexolivieantistartinum](tiktok-creators/lexolivieantistartinum.md)
+* [hollowthing](tiktok-creators/hollowthing.md)
+* [awaken\_fox](tiktok-creators/awaken\_fox.md)
+* [domtheyeen](tiktok-creators/domtheyeen.md)
+* [picklejaro.o](tiktok-creators/picklejaro.o.md)
+* [tiko.wolf](tiktok-creators/tiko.wolf.md)
+* [aphinic\_tiger](tiktok-creators/aphinic\_tiger.md)
+* [thatdogcoda](tiktok-creators/thatdogcoda.md)
+* [kotawolf](tiktok-creators/kotawolf.md)
 * [rico\_furry](tiktok-creators/rico\_furry.md)
 * [nuukpolarwolf](tiktok-creators/nuukpolarwolf.md)
 * [vurrel](tiktok-creators/vurrel.md)
