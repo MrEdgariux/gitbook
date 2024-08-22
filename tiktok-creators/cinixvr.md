@@ -12,6 +12,13 @@ There ofc was music I liked xD
 
 ***
 
-{% hint style="info" %}
-Review Part 2 is coming soon, but I guess he will not pass it.
-{% endhint %}
+## Review Part 2
+
+<figure><img src="../.gitbook/assets/TikTok Review Card - cinixfoxx.png" alt="" width="296"><figcaption></figcaption></figure>
+
+***
+
+| Rule                        | Points took | Points gave |
+| --------------------------- | ----------- | ----------- |
+| Sound Warning (x1)          | 1           | 0           |
+| Encourges Gay Activity (x2) | 4           | 0           |
