@@ -1,10 +1,8 @@
 ---
-description: >-
-  The rules of reviews that are usually followed while reviewing the furry
-  content.
+description: Furry Reviews - Rules.
 ---
 
-# Rules
+# Furry Review
 
 This is the rules I'm following while reviewing furry content.
 

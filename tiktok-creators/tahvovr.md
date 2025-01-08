@@ -1,7 +1,7 @@
 # tahvoVR
 
 {% hint style="danger" %}
-This TikTok furry creator will not be reviewed again. Last reviewed results was at: **2024-07-26** with <mark style="color:red;">**49**</mark>** points.**
+This TikTok furry creator will not be reviewed again. Last reviewed results was at: **2024-07-26** with <mark style="color:red;">**49**</mark>**&#x20;points.**
 {% endhint %}
 
 TahvoVR review results

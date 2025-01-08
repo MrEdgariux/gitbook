@@ -1,7 +1,7 @@
 # domtheyeen
 
 {% hint style="danger" %}
-This TikTok furry creator will not be reviewed again. Last reviewed results was at: **2024-08-14** with <mark style="color:red;">**0**</mark>** points.**
+This TikTok furry creator will not be reviewed again. Last reviewed results was at: **2024-08-14** with <mark style="color:red;">**0**</mark>**&#x20;points.**
 {% endhint %}
 
 ## Review Part 1

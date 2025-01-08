@@ -1,7 +1,7 @@
 # the\_furry\_alpha
 
 {% hint style="danger" %}
-This TikTok furry creator will not be reviewed again. Last reviewed results was at: **2023-11-19** with <mark style="color:red;">**2**</mark>** score.**
+This TikTok furry creator will not be reviewed again. Last reviewed results was at: **2023-11-19** with <mark style="color:red;">**2**</mark>**&#x20;score.**
 {% endhint %}
 
 ## Review Part 1
